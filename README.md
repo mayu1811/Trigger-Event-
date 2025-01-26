@@ -186,7 +186,6 @@ Estimated monthly cost for 24x7 operations: **$0** (using free-tier services)
 
 ## Submission
 
-- **GitHub Repository:** [Link to Repo]
-- **Deployed Solution:** [Link to Deployed App]
+- **GitHub Repository:** [[Link to Repo](https://github.com/mayu1811/Trigger-Event-)]
 - **Contact:** shobhit@segwise.ai
 
